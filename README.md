@@ -26,12 +26,6 @@
 
 ---
 
-###  Telecom AI API (coming soon)
-- Backend system for real-time sentiment analysis
-- REST API using FastAPI
-
----
-
 ## Skills
 - Python, R
 - Machine Learning, NLP
