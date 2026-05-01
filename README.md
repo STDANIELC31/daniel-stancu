@@ -32,7 +32,7 @@
 
 ---
 
-## 🛠️ Skills
+## Skills
 - Python, R
 - Machine Learning, NLP
 - Data Analysis & Visualization
@@ -40,7 +40,7 @@
 
 ---
 
-## 📫 Contact
+## Contact
 - LinkedIn: https://www.linkedin.com/in/daniel-stancu-cristian/
 - Philpeople: https://philpeople.org/profiles/daniel-cristian-stancu
 - Email: stancudanielcristian@gmail.com
