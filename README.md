@@ -22,7 +22,7 @@
 - Built correlation models and visualizations
 - Applied feature engineering on survey data
 
--> [View Project](https://github.com/yourusername/behavioral-data-analysis-r)
+-> [View Project](https://github.com/STDANIELC31/Behavioral-Data-Analysis-Personality-Insights-)
 
 ---
 
