@@ -30,7 +30,6 @@
 - Python, R
 - Machine Learning, NLP
 - Data Analysis & Visualization
-- REST APIs (learning)
 
 ---
 
