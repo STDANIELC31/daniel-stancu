@@ -13,7 +13,7 @@
 - Extracted features using DistilBERT
 - Applied machine learning for sentiment classification
 
--> [View Project]([https://github.com/yourusername/sentiment-analysis-bert](https://github.com/STDANIELC31/sentiment-analysis-bert))
+-> [View Project](https://github.com/STDANIELC31/sentiment-analysis-bert)
 
 ---
 
