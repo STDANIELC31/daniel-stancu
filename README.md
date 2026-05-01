@@ -1,7 +1,7 @@
 # Hi, I'm Stancu Daniel Cristian
 
- Cognitive Science Graduate with a focus on AI, Philosophy & Neuroscience
- Interested in building intelligent systems that understand human behavior  
+ Cognitive Science Graduate with a focus on AI, Philosophy & Neuroscience.
+ I am interested in building intelligent systems that understand human behavior.  
  Based in Bucharest, Romania 🇷🇴
 
 ---
