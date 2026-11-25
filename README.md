@@ -33,6 +33,5 @@
 ---
 
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/daniel-stancu-cristian/
 - Philpeople: https://philpeople.org/profiles/daniel-cristian-stancu
 - Email: stancudanielcristian@gmail.com
