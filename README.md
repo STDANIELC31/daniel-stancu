@@ -1,4 +1,4 @@
-# Hi, I'm Stancu Daniel Cristian
+# Hi, I'm Daniel Cristian Stancu
 
  Cognitive Science Graduate with a focus on Philosophy of Cognitive Science.
  Based in Bucharest, Romania 🇷🇴
